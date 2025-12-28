@@ -1,0 +1,21 @@
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.venv
+.env
+.venv
+.pytest_cache/
+
+### Jupyter Notebook ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+# If you want to ignore all automatically generated HTML/PDF exports of your notebook
+*.html
+*.pdf
